@@ -1,5 +1,4 @@
-#!/bin/bash 
-# tic tac toe
+#!/bin/bash
 
 #echo "Hi! Welcome! Here is Tic Tac Toe."
 
