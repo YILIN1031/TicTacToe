@@ -50,7 +50,7 @@ player_action() {
         echo "Wrong! The position was occupied."
         player_action
     else
-        moves[$action - 1]=$play
+        moves[($action - 1)]=$play
         ((current=current + 1))
     fi
     return
